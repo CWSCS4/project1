@@ -3,7 +3,7 @@ Boolean logic with HDL
 
 Finished:
 - [x] NOT
-- [ ] AND
+- [X] AND
 - [ ] OR
 - [ ] XOR
 - [ ] MUX
