@@ -1,8 +1,8 @@
 # project1
 Boolean logic with HDL
 
-Chips:
-- [ ] NOT
+Finished:
+- [x] NOT
 - [ ] AND
 - [ ] OR
 - [ ] XOR
