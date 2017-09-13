@@ -4,10 +4,10 @@ Boolean logic with HDL
 Finished:
 - [x] NOT
 - [X] AND
-- [ ] OR
-- [ ] XOR
-- [ ] MUX
-- [ ] DMUX
+- [X] OR
+- [X] XOR
+- [X] MUX
+- [X] DMUX
 - [ ] NOT16
 - [ ] AND16
 - [ ] OR16
