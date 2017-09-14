@@ -13,6 +13,7 @@ Finished:
 - [X] OR16
 - [X] MUX16
 - [X] OR8Way
-- [ ] Mux4Way16
-- [ ] DMUX4Way
+- [X] Mux4Way16
+- [ ] Mux8Way16
+- [ ] DMux4Way
 - [ ] DMux8Way
