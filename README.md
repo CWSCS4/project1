@@ -8,11 +8,11 @@ Finished:
 - [X] XOR
 - [X] MUX
 - [X] DMUX
-- [ ] NOT16
-- [ ] AND16
-- [ ] OR16
-- [ ] MUX16
-- [ ] OR8Way
+- [X] NOT16
+- [X] AND16
+- [X] OR16
+- [X] MUX16
+- [X] OR8Way
 - [ ] Mux4Way16
 - [ ] DMUX4Way
 - [ ] DMux8Way
