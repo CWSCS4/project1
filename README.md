@@ -16,4 +16,4 @@ Finished:
 - [X] Mux4Way16
 - [X] Mux8Way16
 - [X] DMux4Way
-- [ ] DMux8Way
+- [X] DMux8Way
